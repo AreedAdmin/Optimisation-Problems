@@ -1,0 +1,21 @@
+# Build artifacts
+dist/
+*.egg-info/
+build/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+*.mov
